@@ -13,5 +13,6 @@ UX Design in Web & Mobile App(CSIS3375)
 ##  Group Details
 
 Wendy Kalahe Vithanawasam Pandikoralalage De Silva - 300390845 - wendydesilva9@gmail.com
+------
 Khushi Bhatt - 300394398 - khushi.bhatt0405@gmail.com
 
