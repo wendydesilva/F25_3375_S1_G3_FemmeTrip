@@ -1,1 +1,17 @@
 # F25_3375_S1_G3_FemmeTrip
+
+## 📖 Overview
+
+FemmeTrip is a mobile application which will provide female travellers a secure platform to connect with travel partners to join them in thier journeys.
+
+##  Course
+
+##  Section
+
+##  Group Number
+
+##  Group Details
+
+Wendy Kalahe Vithanawasam Pandikoralalage De Silva - 300390845 - wendydesilva9@gmail.com
+Khushi Bhatt - 
+
